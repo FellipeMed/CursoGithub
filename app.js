@@ -1,3 +1,4 @@
+//codigo para configuração do node.js
 const http = require('http');
 
 const hostname = '127.0.0.1';
@@ -16,3 +17,4 @@ server.listen(port, hostname, () =>{
 
 
 // comentario para teste
+//outro comentario para teste
