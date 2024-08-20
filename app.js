@@ -13,8 +13,3 @@ const server = http.createServer((req, res) => {
 server.listen(port, hostname, () =>{
     console.log(`Server running ar http://${hostname}:${port}/`)
 })
-
-
-
-// comentario para teste
-//outro comentario para teste
