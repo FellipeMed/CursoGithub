@@ -1,4 +1,4 @@
-//funcão que calcula a media de uma quantidade indefina de argumentos
+//funcão que calcula a media de uma quantidade indefinida de argumentos
 function calcMedia(){
     let arg = arguments
     var soma = 0
